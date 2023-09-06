@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/headerandtailreact/static/css/main.718bcd1e.css",
+    "main.js": "/headerandtailreact/static/js/main.facfee6b.js",
+    "index.html": "/headerandtailreact/index.html",
+    "main.718bcd1e.css.map": "/headerandtailreact/static/css/main.718bcd1e.css.map",
+    "main.facfee6b.js.map": "/headerandtailreact/static/js/main.facfee6b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.718bcd1e.css",
+    "static/js/main.facfee6b.js"
+  ]
+}
