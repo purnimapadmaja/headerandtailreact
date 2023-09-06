@@ -1,0 +1,73 @@
+.home-container{
+    text-align: center;
+    padding:3px;
+    margin:3px;
+
+}
+.Carousel1{
+    height:70vh;
+    width:100vw;
+}
+.card-container{
+display: grid;
+    grid-template-columns: 400px 400px 400px;
+
+   
+    height:40vh;
+    gap:4px;
+}
+.homeapp-container{
+    background-color:azure;
+    height:100vh;
+    width:100vw;
+}
+.homeapli-container{
+    background-color:white;
+    padding:13px;
+    margin:12px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+    height:84vh;
+
+
+}
+.appliances-container{
+    padding:3px;
+    display:grid;
+    grid-template-columns: 170px 170px;
+    grid-template-rows: 200px 200px;
+    margin-left:0px;
+    margin-right:0px;
+}
+.sofaimg{
+    height:102px;
+    width:100px;
+}
+.sofapara{
+    font-size:12px;
+}
+.home-heada{
+    font-size:22px;
+}
+.prime-container{
+    background-color: white;
+        padding: 13px;
+        margin: 12px;
+        border-top-left-radius: 20px;
+        border-top-right-radius: 20px;
+        border-bottom-left-radius: 20px;
+        border-top-right-radius: 20px;
+        height: 84vh;
+}
+.off-container{
+    background-color: white;
+        padding: 13px;
+        margin: 12px;
+        border-top-left-radius: 20px;
+        border-top-right-radius: 20px;
+        border-bottom-left-radius: 20px;
+        border-top-right-radius: 20px;
+        height: 84vh;
+}

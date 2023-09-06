@@ -1,0 +1,28 @@
+.background-container{
+    background-image:linear-gradient(to right, yellow,lightgreen);
+    height:100vh;
+    width:100vw;
+    text-align: center;
+    padding:232px;
+    justify-content: center;
+
+
+
+}
+
+.butonheads{
+background-color: transparent;
+border-color: maroon;
+border-width:22px;
+}
+.butonaboutus{
+    background-color: transparent !important;
+    border-color: blue !important;
+    border-width:22px !important;
+    margin-right:12px;
+}
+.heading{
+    color:white;
+    font-weight:bold;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}

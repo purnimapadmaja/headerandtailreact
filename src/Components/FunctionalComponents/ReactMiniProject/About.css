@@ -1,0 +1,27 @@
+.about-container{
+    background-image: linear-gradient(to right, rgb(140, 140, 213), pink);
+        height: 100vh;
+    background-size: cover;
+    height:140vh;
+    width:100vw;
+    animation-name: bgcontainer;
+    animation-duration: 10s;
+}
+@keyframes bgcontainer {
+    from{
+        background-image: linear-gradient(to right rgb(140, 140, 213),
+            pink);
+    }
+    to{
+        background-image: linear-gradient(to left, orange, red);
+        width:120vw;
+    }
+}
+.head{
+    color:white;
+    font-size:22px;
+    text-align: center;
+    padding:155px;
+
+
+}

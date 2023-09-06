@@ -1,0 +1,15 @@
+.fContainer{
+    text-align: center;
+    background-image:linear-gradient(to right,purple, violet);
+    /* height:20vh; */
+
+
+}
+.nsme{
+    padding:3px;
+    margin:4px;
+}
+.value{
+    color:yellow;
+    font-size:39px;
+}

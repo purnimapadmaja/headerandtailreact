@@ -1,0 +1,49 @@
+.head-contianer{
+    background-color: black;
+    height:100vh;
+    width:100vw;
+    padding:145px;
+   
+}
+.content{
+    background-color:blueviolet
+}
+.selectoption{
+    width:65px;
+    margin-right:12px;
+}
+.inputtr{
+    background-color:transparent;
+    color:red;
+    margin-right:12px;
+}
+.colo{
+    color:white;
+}
+.pattern-container {
+    text-align: center;
+    margin: 20px;
+}
+
+.pattern-container select,
+.pattern-container button {
+    margin: 5px;
+    padding: 5px 10px;
+    font-size: 16px;
+}
+
+.pattern-row {
+    margin: 5px;
+}
+
+.pattern-element {
+    display: inline-block;
+    margin: 2px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.headingheads{
+    text-align: center;
+    color:white
+}

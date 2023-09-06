@@ -1,0 +1,19 @@
+.buttonincrease{
+    padding:3px;
+    margin-right:4px;
+    margin-left:7px;
+}
+.b-container{
+    text-align: center;
+    padding:17px;
+    margin:19px;
+    background-image:linear-gradient(to left, yellow,green);
+    height:60vh;
+   
+}
+.head{
+    font-size:49px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:rgb(148, 4, 18);
+    padding:25px;
+}

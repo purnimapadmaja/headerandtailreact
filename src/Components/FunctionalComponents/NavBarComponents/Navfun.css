@@ -1,0 +1,22 @@
+.color{
+    color:white;
+    font-size:39px;
+}
+.bt {
+    margin-right:8px;
+    margin-left:19px;
+    
+}
+.orderlist{
+    display:flex;
+    list-style-type: none;
+    color: white;
+}
+.list{
+   
+    margin-left:33px;
+  
+}
+.lin{
+    color:white;text-decoration: none;
+}

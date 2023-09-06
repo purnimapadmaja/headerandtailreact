@@ -1,0 +1,52 @@
+.about-container{
+    background-color:navy;
+    height:30vh;
+    width:100vw;
+    padding:23px;
+    text-align:center;
+}
+.about-head{
+    color:white;
+}
+.a-container{
+display:grid;
+grid-template-columns: 400px 800px;
+margin-top:0px;
+}
+.girlImage{
+    height:80vh;
+    
+
+}
+.para-container{
+background-image: linear-gradient(to right, rgb(115, 109, 109), purple);
+
+}
+.AbPara{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding:2px;
+    color:White;
+    font-size:23px;
+    font-weight: 500;
+    font-style: italic;
+  
+}
+.AbPara:hover{
+    transform: rotate(180deg);
+    font-size:40px;
+}
+.tag-line{
+    font-size: 12px;
+    color:white;
+}
+.ab{
+    color:white;
+    font-size:34px;
+    font-weight: bold;
+    font-style: oblique;
+}
+.abt{
+    color:rgb(174, 34, 34);font-size: 34px;
+        font-weight: bold;
+        font-style: oblique;
+}

@@ -1,0 +1,38 @@
+.cont-container{
+    background-color: navy;
+    height:100vh;
+    width:100vw;
+    padding:13px;
+    
+
+}
+.face-logo{
+    height:40px;
+}
+.listI{
+    margin-left:13px;
+}
+.gri-container{
+    display:grid;
+    grid-template-columns: 600px 600px ;
+}
+.som-container{
+    text-align: center;
+    padding:3px;
+    margin-top:3px;
+    margin-left:22px;
+    background-color:white;
+    height:52vh;
+    width:30vw;
+}
+.logo-image{
+    height:10vh;
+}
+.unlist{
+    list-style-type: none;
+    display:flex;
+
+}
+.c-head{
+    color:white;
+}
